@@ -1,0 +1,47 @@
+# Python
+*.pyc
+__pycache__/
+
+# Django
+*.log
+*.pot
+*.pyc
+*.pyo
+*.pyd
+*.so
+*.pid
+*.egg
+*.egg-info
+dist
+build
+env
+.venv
+env/
+.venv/
+env.bak/
+venv.bak/
+instance/
+.webassets-cache
+.scrapy
+docs/_build
+target
+coverage.xml
+*.cover
+.hypothesis/
+.pytest_cache/
+cover/
+.tox/
+nosetests.xml
+coverage/
+
+# React
+node_modules/
+build/
+*.log
+
+# Environment variables
+.env
+
+# VS Code
+.vscode/
+
